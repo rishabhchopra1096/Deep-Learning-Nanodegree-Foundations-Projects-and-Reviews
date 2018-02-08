@@ -47,4 +47,4 @@ Projects for my Udacity Deep Learning Foundation Nanodegree
 )       
 
 
-![Udacity Intro to Programming Nanodegree Certificate](https://rishabhchopra1096.github.io/Machine_Learning_Engineer_Nanodegree/nd101-rishabh-chopra-certificate.png)
+![Udacity Deep Learning Foundation Nanodegree Certificate](https://rishabhchopra1096.github.io/Deep_Learning_Nanodegree_Foundations/nd101-rishabh-chopra-certificate.png)
